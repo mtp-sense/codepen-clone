@@ -1,2 +1,2 @@
 # codepen-clone
-Clone of an online code editor named Codepen
+Source code for the basic functionality of an online code editor named Codepen.
